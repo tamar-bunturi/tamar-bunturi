@@ -10,10 +10,10 @@ Right now I'm expanding my skills into **automation testing** using **Java + Sel
 
 ## What I Work With
 
-- Manual Testing — test cases, bug reports, regression testing
-- Automation — Java, Selenium WebDriver (currently practicing)
-- Tools — Jira, TestRail, Chrome DevTools, Postman
-- Version Control — Git & GitHub
+- Manual Testing - test cases, bug reports, regression testing
+- Automation - Java, Selenium WebDriver (currently practicing)
+- Tools - Jira, TestRail, Chrome DevTools, Postman
+- Version Control - Git & GitHub
 
 ---
 
