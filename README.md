@@ -1,4 +1,4 @@
-## QA Engineer | Manual Tester | Automation Learner
+## QA Engineer | Manual Tester | Automation Enthusiast
 
 I am a QA professional with hands-on experience in manual testing, including test case design, defect reporting, regression testing, and quality assurance processes.
 
