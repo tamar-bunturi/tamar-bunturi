@@ -1,6 +1,6 @@
 ## QA Engineer | Manual Tester | Automation Enthusiast
 
-I am a QA professional with hands-on experience in manual testing, including test case design, defect reporting, regression testing, and quality assurance processes.
+I am an ISTQB® Certified Tester (CTFL) with hands-on experience in manual testing, including test case design, defect reporting, regression testing, and quality assurance processes.
 
 My focus is on understanding product behavior, identifying risks early, and ensuring reliable user experiences through structured testing and clear documentation.
 
