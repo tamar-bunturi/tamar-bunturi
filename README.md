@@ -10,12 +10,14 @@ Currently, I am expanding my expertise in automation testing using Java and Sele
 
 ## Core Skills
 
-* Manual Testing - Test Cases, Bug Reports, Regression Testing
-* API Testing - Postman, Swagger
-* Automation Testing - Java, Selenium WebDriver (Learning & Practice)
+* Manual Testing - Test Cases, Bug Reports, Regression Testing, Exploratory Testing
+* API Testing - Postman, Swagger, REST API Validation
+* Automation Testing - Java, Selenium WebDriver, TestNG, Maven, Allure Reports
 * Test Management - Jira, TestRail
 * Web Testing - Chrome DevTools
 * Version Control - Git & GitHub
+* AI Testing – AI Chatbot Response Validation, Prompt Evaluation
+* Web Testing – Chrome DevTools
 
 ---
 
@@ -28,6 +30,9 @@ This portfolio contains real-world QA artifacts created during testing activitie
 * Checklists
 * API Testing Collections
 * Test Documentation
+* Selenium Automation Projects
+* Allure Test Reports
+* Page Object Model (POM) Framework
 
 ---
 
