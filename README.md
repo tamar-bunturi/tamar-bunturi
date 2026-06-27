@@ -1,38 +1,50 @@
-## QA Engineer | Manual Tester | Automation Enthusiast
+## QA Engineer | API & Automation Testing | Moving toward SDET
 
-I am an ISTQB® Certified Tester (CTFL) with hands-on experience in manual testing, including test case design, defect reporting, regression testing, and quality assurance processes.
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium)
+![RestAssured](https://img.shields.io/badge/RestAssured-API_Automation-green?style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-Testing-red?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman)
+
+I am an ISTQB® Certified Tester (CTFL) with hands-on experience in manual testing - including test case design, exploratory testing, regression testing, bug reporting - and both manual (Postman) and automated (RestAssured) API testing.
 
 My focus is on understanding product behavior, identifying risks early, and ensuring reliable user experiences through structured testing and clear documentation.
 
-Currently, I am expanding my expertise in automation testing using Java and Selenium WebDriver, building test automation frameworks and strengthening my knowledge of modern QA practices.
+Currently, I am expanding my expertise in test automation using Java, Selenium WebDriver, RestAssured, TestNG, Maven, and Allure — building test frameworks from scratch while growing toward an SDET role.
+
+---
+
+## 🔧 Featured Projects
+
+**[trello-api-automation](https://github.com/tamar-bunturi/trello-api-automation)**
+REST API test automation for the Trello API - RestAssured, TestNG, Jackson, Allure.
+Full Board → List → Card lifecycle with request chaining, response-content verification (not just status codes), and automatic cleanup.
+
+**[ui-selenium-automation](https://github.com/tamar-bunturi/selenium-ui-automation-framework))**
+UI test automation framework - Java, Selenium WebDriver, Page Object Model, TestNG.
+
+**[QA-Portfolio](https://github.com/tamar-bunturi/QA-Portfolio)**
+Manual QA artifacts - structured bug reports (with Impact analysis), test cases, checklists, and Postman API collections.
+
+---
+
+## 📊 GitHub Activity
+
+![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamar-bunturi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamar-bunturi&theme=tokyonight&hide_border=true)
 
 ---
 
 ## Core Skills
 
-* Manual Testing - Test Cases, Bug Reports, Regression Testing, Exploratory Testing
-* API Testing - Postman, Swagger, REST API Validation
-* Automation Testing - Java, Selenium WebDriver, TestNG, Maven, Allure Reports
-* Test Management - Jira, TestRail
-* Web Testing - Chrome DevTools
-* Version Control - Git & GitHub
-* AI Testing – AI Chatbot Response Validation, Prompt Evaluation
-* Web Testing – Chrome DevTools
-
----
-
-## Portfolio Projects
-
-This portfolio contains real-world QA artifacts created during testing activities, including:
-
-* Test Cases
-* Bug Reports
-* Checklists
-* API Testing Collections
-* Test Documentation
-* Selenium Automation Projects
-* Allure Test Reports
-* Page Object Model (POM) Framework
+* **Manual Testing** - Test Cases, Bug Reports, Regression Testing, Exploratory Testing
+* **API Testing** - RestAssured, Postman, Swagger, REST API Validation
+* **Automation Testing** - Java, Selenium WebDriver, TestNG, Maven, Allure Reports, Page Object Model
+* **Test Management** - Jira, TestRail
+* **Web Testing** - Chrome DevTools
+* **Version Control** - Git & GitHub
+* **AI Testing** - AI Chatbot Response Validation, Prompt Evaluation
 
 ---
 
@@ -46,15 +58,13 @@ My approach is to evaluate software from both a user perspective and a business 
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/tamar-bunturi
+**LinkedIn:** [tamar-bunturi](https://linkedin.com/in/tamar-bunturi)
 
-Email: [tamara.bunturi@gmail.com](mailto:tamara.bunturi@gmail.com)
+**Email:** [tamara.bunturi@gmail.com](mailto:tamara.bunturi@gmail.com)
 
-GitHub: https://github.com/tamar-bunturi
+**GitHub:** [tamar-bunturi](https://github.com/tamar-bunturi)
 
-Location: Tbilisi, Georgia
-
+**Location:** Tbilisi, Georgia
 ---
 
-Thank you for visiting my portfolio. I am always open to professional networking, collaboration opportunities, and discussions about software quality and testing.
-
+Open to professional networking, collaboration, and discussions about software quality and testing.
