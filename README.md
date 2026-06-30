@@ -10,7 +10,7 @@ I am an ISTQB® Certified Tester (CTFL) with hands-on experience in manual testi
 
 My focus is on understanding product behavior, identifying risks early, and ensuring reliable user experiences through structured testing and clear documentation.
 
-Currently, I am expanding my expertise in test automation using Java, Selenium WebDriver, RestAssured, TestNG, Maven, and Allure — building test frameworks from scratch while growing toward an SDET role.
+Currently, I am expanding my expertise in test automation using Java, Selenium WebDriver, RestAssured, TestNG, Maven, and Allure - building test frameworks from scratch while growing toward an SDET role.
 
 ---
 
