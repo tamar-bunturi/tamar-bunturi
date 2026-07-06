@@ -8,9 +8,9 @@
 
 I am an ISTQB® Certified Tester (CTFL) with hands-on experience in manual testing - including test case design, exploratory testing, regression testing, bug reporting - and both manual (Postman) and automated (RestAssured) API testing.
 
-My focus is on understanding product behavior, identifying risks early, and ensuring reliable user experiences through structured testing and clear documentation.
-
 Currently, I am expanding my expertise in test automation using Java, Selenium WebDriver, RestAssured, TestNG, Maven, and Allure - building test frameworks from scratch while growing toward an SDET role.
+
+I go beyond the standard bug report format by including an **Impact** section in every bug I document. This section provides a business perspective on why the bug matters - not just what is broken, but how it affects users, trust, and product quality.
 
 ---
 
