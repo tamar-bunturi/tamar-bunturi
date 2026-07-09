@@ -30,12 +30,7 @@ Manual QA artifacts - structured bug reports (with Impact analysis), test cases,
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tamar-bunturi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Tamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamar-bunturi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamar-bunturi&layout=compact&theme=tokyonight)
-
+<img src="https://streak-stats.demolab.com?user=tamar-bunturi&theme=tokyonight&hide_border=true" />
 
 ---
 
