@@ -30,8 +30,8 @@ Manual QA artifacts - structured bug reports (with Impact analysis), test cases,
 
 ## 📊 GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=tamar-bunturi&theme=tokyonight&hide_border=true" />
-
+[<img src="https://streak-stats.demolab.com?user=tamar-bunturi&theme=tokyonight&hide_border=true" />
+](https://github-readme-stats.vercel.app/api?username=tamar-bunturi)
 ---
 
 ## Core Skills
