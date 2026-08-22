@@ -1,4 +1,4 @@
-## QA Engineer | API & Automation Testing | Moving toward SDET
+## QA Engineer | Web & Mobile Applications | API & Automation Testing 
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium)
